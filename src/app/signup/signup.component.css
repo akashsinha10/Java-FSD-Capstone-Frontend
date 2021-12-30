@@ -1,0 +1,9 @@
+.bg-one{
+    background-color: #F0F0F0;
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+.has-error{
+    color:red;
+}

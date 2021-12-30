@@ -1,0 +1,15 @@
+{
+    "Chicken Biryani" : "../../../assets/images/ChickenBiryani.jpg",
+    "Mutton Biryani" : "../../../assets/images/MuttonBiryani.jpg",
+    "Chicken Fried Rice" : "../../../assets/images/ChickenFriedRice.jpg",
+    "Veg Schezwan Fried Rice" : "../../../assets/images/SchezwanFriedRice.jpg",
+    "Tacos"  : "../../../assets/images/Tacos.png",
+    "Enchiladas" : "../../../assets/images/Enchiladas.jpg",
+    "Chilly Chicken" : "../../../assets/images/ChillyChicken.jpg",
+    "Chicken Red Thai Curry" : "../../../assets/images/ChickenThaiCurry.jpg",
+    "Veg Green Thai Curry" : "../../../assets/images/VegThaiCurry.jpg",
+    "Veg Farmhouse Pizza" : "../../../assets/images/VegPizza.jpg",
+    "Chicken Loaded Pizza" : "../../../assets/images/ChickenPizza.jpg",
+    "Veg White Sauce Pasta" : "../../../assets/images/VegPasta.jpg",
+    "Checken Red Sauce Pasta" : "../../../assets/images/ChickenPasta.jpeg"
+}
